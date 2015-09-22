@@ -1,0 +1,26 @@
+{
+  "name": "browserify-gulp-react-tutorial",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnrepo/browserify-gulp-react-tutorial.git"
+  },
+  "author": "Joon Heo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jnrepo/browserify-gulp-react-tutorial/issues"
+  },
+  "homepage": "https://github.com/jnrepo/browserify-gulp-react-tutorial#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.3",
+    "gulp-react": "^3.0.1",
+    "gulp-uglify": "^1.4.1"
+  }
+}
